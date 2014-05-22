@@ -1,5 +1,7 @@
 # classes
 
+[![Build Status](https://travis-ci.org/KenanY/classes.svg)](https://travis-ci.org/KenanY/classes)
+
 Quickly mixin class helper methods to a view.
 
 Rewrite of [ianstormtaylor/classes](https://github.com/ianstormtaylor/classes)
