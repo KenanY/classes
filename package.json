@@ -1,0 +1,24 @@
+{
+  "name": "classes",
+  "version": "0.0.0",
+  "description": "Quickly mixin class helper methods to a view",
+  "repository": "KenanY/classes",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "browserify test/index.js | testling"
+  },
+  "dependencies": {
+    "classes": "jkroso/classes"
+  },
+  "devDependencies": {
+    "browserify": "^4.1.5",
+    "tape": "^2.13.1",
+    "testling": "^1.6.1"
+  },
+  "private": true
+}
