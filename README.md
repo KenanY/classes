@@ -7,6 +7,8 @@ Quickly mixin class helper methods to a view.
 Rewrite of [ianstormtaylor/classes](https://github.com/ianstormtaylor/classes)
 for npm+browserify support.
 
+[![testling badge](https://ci.testling.com/KenanY/classes.png)](https://ci.testling.com/KenanY/classes)
+
 ## Example
 
 ``` javascript
