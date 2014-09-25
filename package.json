@@ -5,7 +5,7 @@
   "repository": "KenanY/classes",
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
-  "main": "lib/index.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
