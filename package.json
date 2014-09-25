@@ -1,6 +1,6 @@
 {
   "name": "classes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Quickly mixin class helper methods to a view",
   "repository": "KenanY/classes",
   "license": "MIT",
